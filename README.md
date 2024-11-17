@@ -1,4 +1,4 @@
-# flashbox :zap: :package:
+# flashbox :zap: :zap: :zap: :zap: :zap: :package:
 
 flashbox is an opinionated Confidential VM (CVM) base image built for podman pod payloads. With a focus on security balanced against TCB size, designed to give developers the simplest path to TDX VMs.
 
